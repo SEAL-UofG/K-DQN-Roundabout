@@ -20,6 +20,7 @@ The proposed system employs a deep Q-learning network (DQN) enhanced with a Kolm
 
 - Python 3.6
 - PyTorch 1.10
+- This work based on Highway-env. You can find details at https://github.com/Farama-Foundation/HighwayEnv.
 
 
 ## Installation

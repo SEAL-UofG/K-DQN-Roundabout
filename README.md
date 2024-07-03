@@ -8,7 +8,7 @@ This repository contains the implementation of the KAN-based, conflict-avoidance
 
 ## Overview
 
-![fig1](/home/h/TIV_LOOP_2/K-DQN-Roundabout/fig1.png)
+![fig1](fig1.png)
 
 The proposed system employs a deep Q-learning network (DQN) enhanced with a Kolmogorov-Arnold network (KAN) to learn safe and efficient driving strategies in complex multi-vehicle roundabouts. The system also includes an action inspector to avoid collisions and a route planner to enhance driving efficiency and safety.
 
@@ -16,7 +16,7 @@ The proposed system employs a deep Q-learning network (DQN) enhanced with a Kolm
 
 ## Features
 
-![toc](/home/h/TIV_LOOP_2/K-DQN-Roundabout/toc.png)
+![toc](toc.png)
 
 - KAN-enhanced DQN for robust and precise learning of driving strategies
 - Action inspector to replace dangerous actions and avoid collisions
@@ -52,7 +52,7 @@ git clone https://github.com/SEAL-UofG/K-DQN-Roundabout.git
 
 The proposed system demonstrates superior performance in terms of safety and efficiency compared to traditional benchmark algorithms. It achieves lower collision rates, reduced travel times, and faster training convergence across various traffic flow scenarios.
 
-![result](/home/h/TIV_LOOP_2/K-DQN-Roundabout/result.png)
+![result](result.png)
 
 
 
